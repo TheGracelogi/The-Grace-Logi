@@ -1,8 +1,8 @@
-[![MasterHead](https://tenor.com/view/header-gif-25247205)](https://TheGracelogi.io)
+[![MasterHead](https://tenor.com/bR569.gif)](https://TheGracelogi.io)
 
 <h1 align="center">Hi 👋, I'm Grace</h1>
 <h3 align="center">A passionate frontend developer from Thailand</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/baE1q.gif">
+<img align="right" alt="Coding" width="500" src="https://tenor.com/baE1q.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thegracelogi&label=Profile%20views&color=0e75b6&style=flat" alt="thegracelogi" /> </p>
 
