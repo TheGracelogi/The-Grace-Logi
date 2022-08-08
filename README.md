@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **RPA, DENODO, Tableau, Power BI**
 
-- 📫 How to reach me **minchisa999@gmail.com**
+- 📫 How to reach me **Discord GraceGG**
 
 - 📄 Know about my experiences [https://th.linkedin.com/in/minchisa](https://th.linkedin.com/in/minchisa)
 
